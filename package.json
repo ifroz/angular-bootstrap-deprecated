@@ -1,0 +1,29 @@
+{
+  "name": "angular-bootstrap",
+  "title": "Angular Bootstrap",
+  "description": "Angular Wrapper for Bootstrap",
+  "version": "0.11.0",
+  "main": "ui-bootstrap.js",
+  "homepage": "http://angular-ui.github.io/bootstrap/",
+  "repository": {
+    "type": "git",
+    "url": "http://angular-ui.github.io/bootstrap/"
+  },
+  "keywords": [
+    "angular",
+    "bootstrap"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "build": "npm install"
+  },
+  "_id": "angular-bootstrap@0.11.0",
+  "_from": "angular-bootstrap@^0.11.0",
+  "readme": "# Angular Boostrap module",
+  "readmeFilename": "README.md",
+  "dist": {
+    "shasum": "a73e95c31e18bd655013b3e1021d1cbc3c4d64c9"
+  },
+  "_resolved": "https://registry.npmjs.org/angular-bootstrap/-/angular-bootstrap-0.11.0.tgz"
+}
